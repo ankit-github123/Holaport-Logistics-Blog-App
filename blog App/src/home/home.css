@@ -1,0 +1,9 @@
+.home_card_container {
+    margin: 30px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.home_card_inner {
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,38 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+.primary {
+  background: #1C233C;
+}
+.secondary {
+  background: #050D29;
+}
+.primary_text {
+  color: white;
+}
+.secondary_text {
+  color: #BDB5A3;
+}
+.auto {
+  margin: auto;
+}
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #e6e0e0; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
